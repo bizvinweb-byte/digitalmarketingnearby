@@ -71,8 +71,8 @@ export default function CtaSection() {
             {/* Subtext */}
             <p className="text-xs sm:text-[13.5px] lg:text-[14px] text-slate-600 font-normal leading-relaxed mb-8 max-w-xl">
               Tell us about your goals and get a free, no-obligation consultation
-              from our digital marketing experts. We&apos;ll analyse your needs and
-              suggest the best strategy for your business.
+              from our digital marketing experts in Noida Sector 62. We&apos;ll analyse your needs and
+              suggest the best ranking and lead generation strategy for your business.
             </p>
 
             {/* 4 Feature Badges in 1 Row / Responsive Grid */}

@@ -185,15 +185,15 @@ export default function ServicesSection() {
 
             {/* Main H2 Heading - Standardized across website */}
             <h2 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] font-bold text-slate-900 tracking-tight leading-[1.2] mb-3">
-              Our Digital Marketing{" "}
-              <span className="text-[#fc7511]">Services</span>
+              Digital Marketing Services{" "}
+              <span className="text-[#fc7511]">in Noida</span>
             </h2>
 
             {/* Subtext */}
             <p className="text-xs sm:text-sm lg:text-[14.5px] text-slate-600 font-normal leading-relaxed max-w-2xl">
-              SEO, paid ads, social media, website development and creative
+              SEO, Google Ads, social media management, website development and creative
               solutions to help businesses in Noida and across India generate
-              more traffic, leads and growth.
+              more traffic, qualified leads and revenue.
             </p>
 
             {/* Orange Center Indicator Pill */}

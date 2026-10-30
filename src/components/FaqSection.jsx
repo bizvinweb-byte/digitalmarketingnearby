@@ -166,7 +166,7 @@ export default function FaqSection() {
                   >
                     <Image
                       src={src}
-                      alt="Brandmingo Client"
+                      alt={`Brandmingo Client Business in Noida ${i + 1}`}
                       width={28}
                       height={28}
                       className="w-full h-full object-contain"
@@ -187,7 +187,7 @@ export default function FaqSection() {
             <div className="relative w-full max-w-[290px] sm:max-w-[340px] xl:max-w-[400px]">
               <Image
                 src="/faq.png"
-                alt="Brandmingo Digital Marketing Consultation & FAQs"
+                alt="Digital Marketing Agency in Noida FAQ and Consultation - Brandmingo Media"
                 width={800}
                 height={912}
                 className="w-full h-auto object-contain select-none pointer-events-none drop-shadow-sm"

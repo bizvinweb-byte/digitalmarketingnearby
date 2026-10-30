@@ -154,7 +154,7 @@ export default function WhyChooseUs() {
                   >
                     <Image
                       src={src}
-                      alt={`Brandmingo Client Logo ${i + 1}`}
+                      alt={`Brandmingo Media client in Noida - successful business growth ${i + 1}`}
                       width={44}
                       height={44}
                       className="w-full h-full object-contain"

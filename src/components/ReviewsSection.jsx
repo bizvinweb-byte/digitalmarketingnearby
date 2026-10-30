@@ -349,7 +349,7 @@ export default function ReviewsSection() {
                   >
                     <Image
                       src={src}
-                      alt="Brandmingo Business Client"
+                      alt={`Brandmingo verified Google 5-star review client in Noida ${i + 1}`}
                       width={28}
                       height={28}
                       className="w-full h-full object-contain"

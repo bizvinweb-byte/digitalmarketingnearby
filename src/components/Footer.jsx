@@ -166,7 +166,7 @@ export default function Footer() {
             <div className="inline-flex items-center px-3.5 py-1.5 rounded-xl bg-white shadow-xs w-fit mb-3">
               <Image
                 src="/brandmingologo.png"
-                alt="Brandmingo Media Private Limited"
+                alt="Brandmingo Media Private Limited - Best Digital Marketing Agency in Noida Headquarters"
                 width={150}
                 height={40}
                 className="h-7 sm:h-7.5 w-auto object-contain"
@@ -402,6 +402,14 @@ export default function Footer() {
             </button>
           </div>
 
+        </div>
+
+        {/* Local Areas Served & SEO Quick Tags for Google Indexing in Noida & Delhi NCR */}
+        <div className="pt-4 pb-3 border-b border-white/20 text-center">
+          <p className="text-[10.5px] sm:text-[11px] text-white/95 font-medium leading-relaxed max-w-4xl mx-auto">
+            <span className="font-bold text-white uppercase tracking-wider">Top Service Locations:</span>{" "}
+            Noida Sector 62 &bull; Sector 18 &bull; Sector 63 &bull; Sector 15 &bull; Sector 16 &bull; Noida Electronic City &bull; Noida Extension &bull; Greater Noida &bull; Pari Chowk &bull; Noida Expressway &bull; Indirapuram &bull; Ghaziabad &bull; Delhi NCR &bull; Across India.
+          </p>
         </div>
 
         {/* 3. BOTTOM COPYRIGHT BAR (Centered & Clear Visibility) */}

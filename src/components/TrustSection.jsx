@@ -45,14 +45,14 @@ export default function TrustSection() {
           {/* Heading */}
           <h2 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] font-bold text-slate-900 tracking-tight leading-[1.2] mb-3">
             Real Results.{" "}
-            <span className="text-[#fc7511] font-bold">Real Businesses.</span>
+            <span className="text-[#fc7511] font-bold">Real Businesses in Noida.</span>
           </h2>
 
           {/* Subtitle */}
           <p className="text-sm sm:text-base text-slate-600 font-normal leading-relaxed max-w-2xl">
             We help startups, SMEs and established brands grow with
             result-driven digital marketing and development solutions from
-            Noida to across India.
+            Noida Sector 62 to across India.
           </p>
         </div>
 

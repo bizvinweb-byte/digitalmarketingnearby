@@ -188,7 +188,7 @@ export default function IndustriesSection() {
                 }`}>
                   <Image
                     src={item.image}
-                    alt={`${item.title} digital marketing`}
+                    alt={`${item.title} digital marketing agency services in Noida - Brandmingo`}
                     fill
                     sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 25vw"
                     className="object-cover transition-transform duration-500 group-hover:scale-108"
@@ -241,7 +241,7 @@ export default function IndustriesSection() {
                 >
                   <Image
                     src={src}
-                    alt={`Brandmingo Client Logo ${i + 1}`}
+                    alt={`Brandmingo partner and client business in Noida ${i + 1}`}
                     width={32}
                     height={32}
                     className="w-full h-full object-contain"
