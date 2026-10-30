@@ -123,7 +123,7 @@ export default function ProcessSection() {
   return (
     <section
       id="process"
-      className="relative w-full py-8 sm:py-10 lg:py-12 overflow-hidden"
+      className="relative w-full py-8 sm:py-10 lg:py-12 overflow-hidden scroll-mt-24"
     >
       {/* Schema.org Structured Data */}
       <script

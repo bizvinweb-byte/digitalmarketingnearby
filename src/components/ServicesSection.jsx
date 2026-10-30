@@ -161,7 +161,7 @@ export default function ServicesSection() {
   return (
     <section
       id="services"
-      className="relative w-full py-8 sm:py-10 lg:py-12 overflow-hidden"
+      className="relative w-full py-8 sm:py-10 lg:py-12 overflow-hidden scroll-mt-24"
     >
       {/* Inject Structured Data for Google SEO */}
       <script

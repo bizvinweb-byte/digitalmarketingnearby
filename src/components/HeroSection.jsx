@@ -40,7 +40,7 @@ export default function HeroSection() {
   ];
 
   return (
-    <section className="relative w-full pt-1 pb-6 sm:pt-4 sm:pb-8 lg:pt-6 lg:pb-10 overflow-hidden">
+    <section id="home" className="relative w-full pt-1 pb-6 sm:pt-4 sm:pb-8 lg:pt-6 lg:pb-10 overflow-hidden scroll-mt-24">
       {/* Background Soft Warm Glow Effect */}
       <div className="absolute top-0 right-0 w-[350px] sm:w-[500px] lg:w-[700px] h-[350px] sm:h-[500px] bg-gradient-to-bl from-[#fff2e7] via-[#fff9f4] to-transparent rounded-full blur-3xl -z-10 pointer-events-none opacity-80" />
       <div className="absolute -bottom-6 left-1/4 w-[250px] sm:w-[350px] h-[200px] bg-gradient-to-tr from-[#fff5eb] to-transparent rounded-full blur-2xl -z-10 pointer-events-none opacity-50" />

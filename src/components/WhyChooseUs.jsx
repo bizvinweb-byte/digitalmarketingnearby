@@ -72,8 +72,8 @@ export default function WhyChooseUs() {
 
   return (
     <section
-      id="about"
-      className="relative w-full py-8 sm:py-10 lg:py-12 overflow-hidden"
+      id="why-choose-us"
+      className="relative w-full py-8 sm:py-10 lg:py-12 overflow-hidden scroll-mt-24"
     >
       {/* Background Soft Glow Accents */}
       <div className="absolute top-1/2 left-1/3 -translate-y-1/2 w-[550px] h-[450px] bg-gradient-to-r from-[#fff3e8] via-[#fff9f4] to-transparent rounded-full blur-3xl -z-10 pointer-events-none opacity-80" />

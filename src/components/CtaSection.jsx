@@ -44,8 +44,8 @@ export default function CtaSection() {
 
   return (
     <section
-      id="consultation"
-      className="relative w-full py-8 sm:py-10 lg:py-12 overflow-hidden bg-white"
+      id="contact"
+      className="relative w-full py-8 sm:py-10 lg:py-12 overflow-hidden bg-white scroll-mt-24"
     >
       {/* Background Ambient Warm Glows */}
       <div className="absolute top-10 left-0 w-[450px] h-[350px] bg-[#fff0e2] rounded-full blur-3xl -z-10 pointer-events-none opacity-70" />

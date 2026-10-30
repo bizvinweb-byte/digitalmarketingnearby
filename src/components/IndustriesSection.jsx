@@ -92,7 +92,7 @@ export default function IndustriesSection() {
   return (
     <section
       id="industries"
-      className="relative w-full py-8 sm:py-10 lg:py-12 overflow-hidden bg-gradient-to-br from-[#fc7511] via-[#f76400] to-[#e45500] text-white"
+      className="relative w-full py-8 sm:py-10 lg:py-12 overflow-hidden bg-gradient-to-br from-[#fc7511] via-[#f76400] to-[#e45500] text-white scroll-mt-24"
     >
       {/* Background Decorative Mesh & Curved Accent Lines */}
       <div className="absolute inset-0 bg-[radial-gradient(circle_at_20%_20%,rgba(255,255,255,0.18),transparent_50%)] pointer-events-none -z-0" />
